@@ -9,7 +9,7 @@ I'm a **Full Stack Developer** from Brazil, currently working with **Java**, **S
 ![MySQL](https://img.shields.io/badge/MySQL-00000F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 
+## 🗺️
 I'm fluent in **English**, and have a good understanding of **Spanish**!
 
 ## How to Reach Me
